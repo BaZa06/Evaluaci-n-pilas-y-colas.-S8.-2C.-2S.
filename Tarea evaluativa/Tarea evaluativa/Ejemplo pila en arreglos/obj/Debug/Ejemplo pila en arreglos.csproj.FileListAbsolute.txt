@@ -1,0 +1,7 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\bin\Debug\Ejemplo pila en arreglos.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\bin\Debug\Ejemplo pila en arreglos.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\bin\Debug\Ejemplo pila en arreglos.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\obj\Debug\Ejemplo pila en arreglos.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\obj\Debug\Ejemplo pila en arreglos.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\obj\Debug\Ejemplo pila en arreglos.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo pila en arreglos\obj\Debug\Ejemplo pila en arreglos.pdb

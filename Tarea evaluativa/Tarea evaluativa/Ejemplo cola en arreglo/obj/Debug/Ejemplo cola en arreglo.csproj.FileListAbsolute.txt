@@ -1,0 +1,8 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\bin\Debug\Ejemplo cola en arreglo.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\bin\Debug\Ejemplo cola en arreglo.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\bin\Debug\Ejemplo cola en arreglo.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\obj\Debug\Ejemplo cola en arreglo.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\obj\Debug\Ejemplo cola en arreglo.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\obj\Debug\Ejemplo cola en arreglo.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\obj\Debug\Ejemplo cola en arreglo.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejemplo cola en arreglo\obj\Debug\Ejemplo cola en arreglo.exe.config
