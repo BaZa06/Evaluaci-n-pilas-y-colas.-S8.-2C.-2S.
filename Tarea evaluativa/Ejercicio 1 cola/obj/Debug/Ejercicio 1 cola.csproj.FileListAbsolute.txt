@@ -1,0 +1,8 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\bin\Debug\Ejercicio 1 cola.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\bin\Debug\Ejercicio 1 cola.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\bin\Debug\Ejercicio 1 cola.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\obj\Debug\Ejercicio 1 cola.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\obj\Debug\Ejercicio 1 cola.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\obj\Debug\Ejercicio 1 cola.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\obj\Debug\Ejercicio 1 cola.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 8\Tarea evaluativa\Ejercicio 1 cola\obj\Debug\Ejercicio 1 cola.exe.config
